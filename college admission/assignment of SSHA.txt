@@ -1,0 +1,17 @@
+Q.What is SSH ?
+A.Secure Shell Protocol-is a network communication protocol that enables two computers to communicate 
+(c.f http or hypertext transfer protocol, which is the protocol used to transfer hypertext such as web pages) 
+and share data.
+
+Q.Why do we need SSH?
+A.SSH encrypts and authenticates all connections. SSH provides IT and information security (infosec) professionals
+with a secure mechanism to manage SSH clients remotely. Rather than requiring password authentication to initialize
+a connection between an SSH client and server, SSH authenticates the devices themselves.
+
+Q.How do I use SSH?
+A.to connect to our service (server) and transfer the data to/from our storage using either a graphical user interface or command line.
+ There are many programs available that enable you to perform this transfer and some operating systems
+
+Q.Why Use an SSH Key?
+A.When working with a GitHub repository, you'll often need to identify yourself to GitHub using your username and password.
+An SSH key is an alternate way to identify yourself that doesn't require you to enter you username and password every time
